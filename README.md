@@ -1,4 +1,4 @@
-# mae22b_vega_ricardo
-## Este es un subtitulo.
+# mae22b_rvega
+## Este es un repositorio para la clase.
 
 Este es mi primer parrafo con commit.
