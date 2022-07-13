@@ -1,5 +1,23 @@
-# mae22b_rvega
-## Este es un repositorio para la clase.
+# MÉTODOS DE ANÁLISIS ESPACIAL 2022
+
+Repositorio para la Clase MÉTODOS DE ANÁLISIS ESPACIAL, UAI, 2022A.
+
+### SESIONES
+
+* CLASES: Jueves 10:00 – 12:40, Sala 225 Edificio D.
+
+### EQUIPO
+
+* Ricardo Vega, Diseñador, Artista: rivegam@uc.cl.
+* Javiera Bravo, Ayuante: 
+
+### PROGRAMAS Y HERRAMIENTAS
+
+* Github: https://github.com/ricardovv/mae22b_rvega
+* SublimeText 3: Editor de código HTL, CSS, y JavaScript. https://www.sublimetext.com  
+* Anadonda, Python y Jypiter notebook: https://www.anaconda.com
+
+### COLABORACIONES DE PRUEBA
 
 Este es mi primer parrafo con commit. 
 
